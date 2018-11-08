@@ -1,0 +1,27 @@
+.header-main {
+  background-image: linear-gradient(to bottom, rgb(147, 204, 55), rgb(65, 76, 182))
+}
+
+.header-step_icon-one {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+  background-image: url("../../../data/images/logo/header/green-check.png");
+}
+
+.header-step_icon-two {
+  display: block;
+  height: 50px;
+  width: 60px;
+  margin: 0 auto;
+  background-image: url("../../../data/images/logo/header/green-dialog.png");
+}
+
+.header-step_icon-three {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+  background-image: url("../../../data/images/logo/header/green-heart.png");
+}
