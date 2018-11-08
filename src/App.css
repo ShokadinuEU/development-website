@@ -1,0 +1,11 @@
+html {
+  font-family: helvetica neue,Helvetica,Arial,lucida grande,sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5714286;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

@@ -1,0 +1,122 @@
+.navbar-main {
+  height: 66px;
+  background-color: #000;
+  color: #ccc;
+}
+
+.navbar-wrapper {
+  display: flex;
+  align-items: center;
+  max-width: 1152px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+.navbar-links {
+  display: flex;
+  flex-grow: 1;
+  height: 100%;
+}
+
+.nav-info {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  margin-right: 1.5;
+  position: relative;
+  height: 100%;
+  cursor: pointer;
+  transition: all .2s ease;
+  &:hover {
+    color: #ccc;
+  }
+}
+
+.nav-info:before {
+  content: "";
+  position: absolute;
+  width: 120%;
+  height: 3px;
+  bottom: 0;
+  left: -5%;
+  background-color: rgb(32, 165, 76);
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.2s ease-in-out 0.1s;
+}
+.nav-info:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.drop-down {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  margin-right: 1.5rem;
+  position: relative;
+  height: 100%;
+  cursor: pointer;
+  transition: all .2s ease;
+  position: relative;
+  color: #ccc;
+  text-decoration: none;
+  &:hover {
+    color: #ccc;
+  }
+}
+
+.drop-down:before {
+  content: "";
+  position: absolute;
+  width: 120%;
+  height: 3px;
+  bottom: 0;
+  left: -10%;
+  background-color: rgb(32, 165, 76);
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.2s ease-in-out 0.1s;
+}
+.drop-down:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.brand img {
+  width: 11rem;
+  height: 3.5rem;
+  display: block;
+  line-height: 3.3rem;
+  margin-left: 1.7rem;
+  margin-right: 1.1rem;
+  cursor: pointer;
+}
+
+.navbar-button-main {
+  flex-grow: 0;
+  order: 4;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 1.1rem;
+  cursor: pointer;
+}
+
+.navbar-button-link {
+  background: #82b641;
+  padding: 7px 16px;
+  border-radius: 2px;
+  color: #fff;
+  text-decoration: none;
+  line-height: 3.7em;
+  border-radius: 5px;
+  transition: all .5s ease;
+
+  &:hover {
+    background-color: rgb(36, 119, 36);
+  }
+}
