@@ -40,6 +40,20 @@ function Header() {
               <input type="text" className="header-form-input" placeholder="Find a service: eg. 'Logo Design' " />
               <button className="header-form-button">Search</button>
             </form>
+            <div className="header-trending-services-main">
+              <div className="trending-services-wrapper">
+                <p className="trending-services-label">Trending Services:</p>
+                <a className="trending-services-link">
+                  App Development
+                </a>
+                <a className="trending-services-link">
+                  Logo Design
+                </a>
+                <a className="trending-services-link">
+                  Landing Page Design
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
