@@ -38,7 +38,7 @@
   position: absolute;
   width: 120%;
   height: 3px;
-  bottom: 0;
+  bottom: 1px;
   left: -5%;
   background-color: rgb(32, 165, 76);
   visibility: hidden;
@@ -47,7 +47,6 @@
 }
 .nav-info:hover:before {
   visibility: visible;
-  -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
 
@@ -73,7 +72,7 @@
   position: absolute;
   width: 120%;
   height: 3px;
-  bottom: 0;
+  bottom: 1px;
   left: -10%;
   background-color: rgb(32, 165, 76);
   visibility: hidden;
@@ -82,7 +81,6 @@
 }
 .drop-down:hover:before {
   visibility: visible;
-  -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
 
@@ -114,7 +112,7 @@
   text-decoration: none;
   line-height: 3.7em;
   border-radius: 5px;
-  transition: all .5s ease;
+  transition: all .3s ease;
 
   &:hover {
     background-color: rgb(36, 119, 36);

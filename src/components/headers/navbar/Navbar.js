@@ -6,7 +6,7 @@ export default class Navbar extends Component {
     return (
       <div className="navbar-main">
         <div className="navbar-wrapper">
-          <div className="brand"><img src="./../../data/images/logo/brand-logo.png" alt="nav-brand-img"/></div>
+          <div className="brand"><img src="./../../data/images/logo/navbar/brand-logo.png" alt="nav-brand-img"/></div>
           <div className="navbar-links">
             <div className="drop-down">Browse <span>&#187;</span></div>
             <div className="nav-info">How it Work</div>
