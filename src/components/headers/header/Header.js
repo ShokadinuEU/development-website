@@ -17,6 +17,7 @@ function Header() {
                   Select your service from our marketplace
                 </p>
               </div>
+              <img src="../../../data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
               <div className="header-step">
                 <div className="header-step-icon">
                 <img src="../../../data/images/logo/header/green-dialog.png" alt="dialog" className="header-step_icon-two"/>
@@ -25,6 +26,7 @@ function Header() {
                   Collaborate with an expert on your project
                 </p>
               </div>
+              <img src="../../../data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
               <div className="header-step">
                 <div className="header-step-icon">
                 <img src="../../../data/images/logo/header/green-heart.png" alt="heart" className="header-step_icon-three"/>
@@ -34,6 +36,10 @@ function Header() {
                 </p>
               </div>
             </div>
+            <form action="/search" className="header-form">
+              <input type="text" className="header-form-input" placeholder="Find a service: eg. 'Logo Design' " />
+              <button className="header-form-button">Search</button>
+            </form>
           </div>
         </div>
       </div>
