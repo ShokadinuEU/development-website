@@ -1,0 +1,91 @@
+.categories-main {
+  max-width: 1152px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.categories-heading {
+  margin-top: 5.2rem;
+  font-weight: 700;
+  color: #4a4a4a;
+  text-align: center;
+  font-size: 2.7rem;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+  padding: 0;
+}
+
+.categories-subheading {
+  margin-bottom: 44px;
+  margin-bottom: 3.1rem;
+  color: #999;
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.categories-grid-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.categories-card-wrapper {
+  width: 25%;
+  padding: 10px;
+  text-align: center;
+}
+
+.categories-card {
+  display: block;
+  border-radius: 4px;
+  box-shadow: 0 1px 8px rgba(0,0,0,.2);
+  transition: all .2s ease;
+  height: 210px;
+  background-size: cover;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.card-one {
+  background-image: url("../../../data/images/categories/audio.jpg");
+}
+.card-two {
+  background-image: url("../../../data/images/categories/graphics-design.jpg");
+}
+.card-three {
+  background-image: url("../../../data/images/categories/wordpress.jpg");
+}
+.card-four {
+  background-image: url("../../../data/images/categories/logo-design.jpg");
+}
+.card-five {
+  background-image: url("../../../data/images/categories/marketing.jpg");
+}
+.card-six {
+  background-image: url("../../../data/images/categories/animation.jpg");
+}
+.card-seven {
+  background-image: url("../../../data/images/categories/mobile-apps.jpg");
+}
+.card-eight {
+  background-image: url("../../../data/images/categories/programming.jpg");
+}
+
+.categories-card-name {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1.1rem;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  height: 100%;
+  transition: all 0.2s ease;
+  &:hover {
+    background: rgba(0,0,0,.2);
+  }
+}
