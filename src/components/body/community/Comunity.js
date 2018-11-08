@@ -15,8 +15,8 @@ function Comunity() {
           <section>
             <div className="comunity-first">
               <div className="comunity-first-image">
-                <a href="/" className="comunity-first-image-img">
-                  <h3 className="comunity-first-image-id">UsernameId</h3>
+                <a href="#" className="comunity-first-image-img">
+                  <h3 className="comunity-first-image-id">User Name Id</h3>
                   <div className="comunity-first-image-category">Mobile and UI Design</div>
                 </a>
               </div>
@@ -33,7 +33,7 @@ function Comunity() {
               </div>
             </div>
             <div className="comunity-second">
-              <a href="/" className="comunity-second-item">
+              <a href="#" className="comunity-second-item">
                 <div className="comunity-image-1">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Mausee Design</h3>
@@ -41,16 +41,16 @@ function Comunity() {
                   </div>
                 </div>
               </a>
-              <a href="/" className="comunity-second-item">
-                <div className="comunity-image-1">
+              <a href="#" className="comunity-second-item">
+                <div className="comunity-image-2">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Brand Busters</h3>
                     <div className="comunity-image-text-category">Poster Design</div>
                   </div>
                 </div>
               </a>
-              <a href="/" className="comunity-second-item">
-                <div className="comunity-image-1">
+              <a href="#" className="comunity-second-item">
+                <div className="comunity-image-3">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Unseen Hunter</h3>
                     <div className="comunity-image-text-category">Avatar Design</div>
