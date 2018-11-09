@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a433beafa734cbde6d419a3f66a1d309",
-    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
+    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
+    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
   },
   {
-    "revision": "fc49e071bf453ba80e75",
-    "url": "/development-website/static/css/main.c73def2c.chunk.css"
+    "revision": "6f22d7d2a73f1549f3e6",
+    "url": "/development-website/static/css/main.dc762832.chunk.css"
   },
   {
     "revision": "3da870a3c1c4b41662f2",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/audio.372d2ef3.jpg"
   },
   {
+    "revision": "a433beafa734cbde6d419a3f66a1d309",
+    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
+  },
+  {
+    "revision": "6f22d7d2a73f1549f3e6",
+    "url": "/development-website/static/js/main.6f22d7d2.chunk.js"
+  },
+  {
     "revision": "47dea3ae6303148da982e398e90276cd",
     "url": "/development-website/static/media/marketing.47dea3ae.jpg"
-  },
-  {
-    "revision": "fc49e071bf453ba80e75",
-    "url": "/development-website/static/js/main.fc49e071.chunk.js"
-  },
-  {
-    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
-    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
   },
   {
     "revision": "c048a1b64bdcf8148793fcecbc6b5eb5",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/brand-logo.19004b6a.png"
   },
   {
-    "revision": "5a4201383888f2a2e10ad47b1d525a5b",
+    "revision": "2098f5f1f1bd06960d6a64350200cf57",
     "url": "/development-website/index.html"
   }
 ];
