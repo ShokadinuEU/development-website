@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "gh": "^1.13.5",
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0",
     "pages": "0.0.16",
     "react": "^16.6.1",

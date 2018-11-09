@@ -91,7 +91,9 @@ hr {
 }
 
 .footer-second {
-  display: inline-block;
+  max-width: 1152px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer-second-site-affiliate {
@@ -119,9 +121,11 @@ hr {
 }
 
 .creator {
+  padding: 1rem 0;
+  margin: 1rem 0;
   display: block;
-  margin-left: 4.5%;
-  width: 100%;
+  margin-left: 1.6rem;
+  text-align: center;
 }
 
 .creator span {

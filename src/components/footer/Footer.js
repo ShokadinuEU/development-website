@@ -65,7 +65,7 @@ function Footer() {
             </ul>
             <p className="footer-second-copyright">
               Copyright © 2018 Envato Studio. All Rights Reserved
-            </p>
+            </p><br />
             <p className="creator">Thank you <span>ShokadinuEU&#174;</span></p>
           </div>
         </div>
