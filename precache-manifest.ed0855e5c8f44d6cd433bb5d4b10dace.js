@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
-    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
+    "revision": "a433beafa734cbde6d419a3f66a1d309",
+    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
   },
   {
-    "revision": "03f6020368ba3416aafe",
+    "revision": "f08ac831f57853cbbc69",
     "url": "/development-website/static/css/main.af4c3d7d.chunk.css"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/audio.372d2ef3.jpg"
   },
   {
-    "revision": "a433beafa734cbde6d419a3f66a1d309",
-    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
+    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
+    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
   },
   {
-    "revision": "03f6020368ba3416aafe",
-    "url": "/development-website/static/js/main.03f60203.chunk.js"
+    "revision": "f08ac831f57853cbbc69",
+    "url": "/development-website/static/js/main.f08ac831.chunk.js"
   },
   {
     "revision": "47dea3ae6303148da982e398e90276cd",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/brand-logo.19004b6a.png"
   },
   {
-    "revision": "5947737271e63b6acd597b209981b064",
+    "revision": "e1091226c5a6d8348d0516b19984b4e9",
     "url": "/development-website/index.html"
   }
 ];

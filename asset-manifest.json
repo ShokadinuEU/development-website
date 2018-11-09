@@ -1,7 +1,7 @@
 {
   "main.css": "/development-website/static/css/main.af4c3d7d.chunk.css",
-  "main.js": "/development-website/static/js/main.03f60203.chunk.js",
-  "main.js.map": "/development-website/static/js/main.03f60203.chunk.js.map",
+  "main.js": "/development-website/static/js/main.f08ac831.chunk.js",
+  "main.js.map": "/development-website/static/js/main.f08ac831.chunk.js.map",
   "static/js/1.3da870a3.chunk.js": "/development-website/static/js/1.3da870a3.chunk.js",
   "static/js/1.3da870a3.chunk.js.map": "/development-website/static/js/1.3da870a3.chunk.js.map",
   "runtime~main.js": "/development-website/static/js/runtime~main.9b9bbf3f.js",
@@ -11,6 +11,6 @@
   "static/media/comunity.scss": "/development-website/static/media/poster-design.9445e323.jpg",
   "static/css/main.af4c3d7d.chunk.css.map": "/development-website/static/css/main.af4c3d7d.chunk.css.map",
   "index.html": "/development-website/index.html",
-  "precache-manifest.09453fb4105dbf485b99d8b6b0cf4bbe.js": "/development-website/precache-manifest.09453fb4105dbf485b99d8b6b0cf4bbe.js",
+  "precache-manifest.ed0855e5c8f44d6cd433bb5d4b10dace.js": "/development-website/precache-manifest.ed0855e5c8f44d6cd433bb5d4b10dace.js",
   "service-worker.js": "/development-website/service-worker.js"
 }
