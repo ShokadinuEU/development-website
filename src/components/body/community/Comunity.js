@@ -16,7 +16,7 @@ function Comunity() {
             <div className="comunity-first">
               <div className="comunity-first-image">
                 <a href="#" className="comunity-first-image-img">
-                  <h3 className="comunity-first-image-id">User Name Id</h3>
+                  <h3 className="comunity-first-image-id">User ID</h3>
                   <div className="comunity-first-image-category">Mobile and UI Design</div>
                 </a>
               </div>
@@ -52,7 +52,7 @@ function Comunity() {
               <a href="#" className="comunity-second-item">
                 <div className="comunity-image-3">
                   <div className="comunity-image-text">
-                    <h3 className="comunity-username">Unseen Hunter</h3>
+                    <h3 className="comunity-username">Sleepless Artist</h3>
                     <div className="comunity-image-text-category">Avatar Design</div>
                   </div>
                 </div>
