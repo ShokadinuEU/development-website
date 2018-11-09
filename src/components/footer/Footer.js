@@ -56,7 +56,17 @@ function Footer() {
           </div>
           <hr />
           <div className="footer-second">
-
+            <ul className="footer-second-site-affiliate">
+              <li ><a className="site-affiliate" target="_blank" href="#">Envato Market</a></li>
+              <li ><a className="site-affiliate" target="_blank" href="#">Envato Elements</a></li>
+              <li ><a className="site-affiliate" target="_blank" href="#">Envato Tuts+</a></li>
+              <li ><a className="site-affiliate" target="_blank" href="#">Envato Sites</a></li>
+              <li ><a className="site-affiliate" target="_blank" href="#">Sitemap</a></li>
+            </ul>
+            <p className="footer-second-copyright">
+              Copyright © 2018 Envato Studio. All Rights Reserved
+            </p>
+            <p className="creator">Thank you <span>ShokadinuEU&#174;</span></p>
           </div>
         </div>
       </div>
