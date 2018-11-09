@@ -11,25 +11,25 @@ function Header() {
             <div className="header-info">
               <div className="header-step">
                 <div className="header-step-icon">
-                  <img src="../../../data/images/logo/header/green-check.png" alt="search" className="header-step_icon-one"/>
+                  <img src="../data/images/logo/header/green-check.png" alt="search" className="header-step_icon-one"/>
                 </div>
                 <p className="header-step-text">
                   Select your service from our marketplace
                 </p>
               </div>
-              <img src="../../../data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
+              <img src="./data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
               <div className="header-step">
                 <div className="header-step-icon">
-                <img src="../../../data/images/logo/header/green-dialog.png" alt="dialog" className="header-step_icon-two"/>
+                <img src="./data/images/logo/header/green-dialog.png" alt="dialog" className="header-step_icon-two"/>
                 </div>
                 <p className="header-step-text">
                   Collaborate with an expert on your project
                 </p>
               </div>
-              <img src="../../../data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
+              <img src="./data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
               <div className="header-step">
                 <div className="header-step-icon">
-                <img src="../../../data/images/logo/header/green-heart.png" alt="heart" className="header-step_icon-three"/>
+                <img src="./data/images/logo/header/green-heart.png" alt="heart" className="header-step_icon-three"/>
                 </div>
                 <p className="header-step-text">
                   Review, approve and you're done!
