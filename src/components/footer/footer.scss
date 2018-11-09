@@ -37,3 +37,49 @@
     cursor: pointer;
   }
 }
+
+hr {
+  max-width: 1152px;
+  margin: 0 auto;
+}
+
+.footer-list-social {
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.footer-logo {
+  background-image: url('../../data/images/logo/navbar/brand-logo.png');
+  display: block;
+  line-height: 3.14rem;
+  max-height: 2.88rem;
+  max-width: 14.14rem;
+  margin-right: 0.7rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-indent: -99999px;
+}
+
+.footer-list-item-social {
+  float: left;
+}
+
+.footer-list-link-social {
+  padding-top: 0.4rem;
+  height: 3.14rem;
+  display: block;
+}
+
+.footer-social-img {
+  margin-right: 0.4rem;
+  line-height: 3.14rem;
+  height: 1.77rem;
+  width: 1.77rem;
+  display: block;
+  border-radius: 3px;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.2, 1.2);
+  }
+}
