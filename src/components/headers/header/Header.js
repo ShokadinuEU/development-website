@@ -11,7 +11,7 @@ function Header() {
             <div className="header-info">
               <div className="header-step">
                 <div className="header-step-icon">
-                  <img src="../data/images/logo/header/green-check.png" alt="search" className="header-step_icon-one"/>
+                  <img src="./data/images/logo/header/green-check.png" alt="search" className="header-step_icon-one"/>
                 </div>
                 <p className="header-step-text">
                   Select your service from our marketplace
