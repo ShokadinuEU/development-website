@@ -36,7 +36,7 @@ function Header() {
                 </p>
               </div>
             </div>
-            <form action="/search" className="header-form">
+            <form className="header-form">
               <input type="text" className="header-form-input" placeholder="Find a service: eg. 'Logo Design' " />
               <button className="header-form-button">Search</button>
             </form>
