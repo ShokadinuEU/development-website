@@ -5,6 +5,7 @@ import Header from './components/headers/header/Header'
 import Categories from './components/body/categories/Categories'
 import Comunity from './components/body/community/Comunity'
 import Search from './components/body/search/Search'
+import Footer from './components/footer/Footer';
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
         <Categories />
         <Comunity />
         <Search />
+        <Footer />
       </div>
     );
   }

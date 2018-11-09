@@ -45,6 +45,7 @@
   height: 210px;
   background-size: cover;
   &:hover {
+    transform: translateY(-3px);
     box-shadow: 5px 5px 6px rgba(27, 27, 27, 0.6);
     transition: all .2s cubic-bezier(.19,.4,.53,.3);
   }
