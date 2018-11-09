@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
-    "url": "/studio-envato/static/media/graphics-design.de89b79a.jpg"
+    "revision": "a433beafa734cbde6d419a3f66a1d309",
+    "url": "/studio-envato/static/media/wordpress.a433beaf.jpg"
   },
   {
     "revision": "03aff917205162b06617",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/studio-envato/static/media/audio.372d2ef3.jpg"
   },
   {
-    "revision": "a433beafa734cbde6d419a3f66a1d309",
-    "url": "/studio-envato/static/media/wordpress.a433beaf.jpg"
+    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
+    "url": "/studio-envato/static/media/graphics-design.de89b79a.jpg"
   },
   {
     "revision": "03aff917205162b06617",

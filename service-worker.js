@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/studio-envato/precache-manifest.ab7a479042b03abcf7db509890ea9488.js"
+  "/studio-envato/precache-manifest.c67b5ea6740446d471a3f60c5d18a96d.js"
 );
 
 workbox.clientsClaim();
