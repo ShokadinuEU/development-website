@@ -13,7 +13,7 @@ export default class Navbar extends Component {
             </div>
             <div className="nav-info">How it Work</div>
             <div className="navbar-button-main">
-              <a href="/" className="navbar-button-link">Sign In</a></div>
+              <a href="https://shokadinueu.github.io/development-website" className="navbar-button-link">Sign In</a></div>
           </div>
         </div>
       </div>
