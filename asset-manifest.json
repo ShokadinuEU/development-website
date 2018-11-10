@@ -1,16 +1,15 @@
 {
-  "main.css": "/development-website/static/css/main.0d37d8a7.chunk.css",
-  "main.js": "/development-website/static/js/main.4b56896b.chunk.js",
-  "main.js.map": "/development-website/static/js/main.4b56896b.chunk.js.map",
+  "main.css": "/development-website/static/css/main.1e793e0b.chunk.css",
+  "main.js": "/development-website/static/js/main.ad60ad81.chunk.js",
+  "main.js.map": "/development-website/static/js/main.ad60ad81.chunk.js.map",
   "static/js/1.3da870a3.chunk.js": "/development-website/static/js/1.3da870a3.chunk.js",
   "static/js/1.3da870a3.chunk.js.map": "/development-website/static/js/1.3da870a3.chunk.js.map",
   "runtime~main.js": "/development-website/static/js/runtime~main.9b9bbf3f.js",
   "runtime~main.js.map": "/development-website/static/js/runtime~main.9b9bbf3f.js.map",
-  "static/media/footer.scss": "/development-website/static/media/brand-logo.19004b6a.png",
+  "static/media/comunity.scss": "/development-website/static/media/comunity-power.03aa4175.jpg",
   "static/media/categories.scss": "/development-website/static/media/animation.f31c7247.jpg",
-  "static/media/comunity.scss": "/development-website/static/media/poster-design.9445e323.jpg",
-  "static/css/main.0d37d8a7.chunk.css.map": "/development-website/static/css/main.0d37d8a7.chunk.css.map",
+  "static/css/main.1e793e0b.chunk.css.map": "/development-website/static/css/main.1e793e0b.chunk.css.map",
   "index.html": "/development-website/index.html",
-  "precache-manifest.22b09178c0fac06229ee2af266288ccc.js": "/development-website/precache-manifest.22b09178c0fac06229ee2af266288ccc.js",
+  "precache-manifest.9be4a3095f0d5ce5385872b675111d03.js": "/development-website/precache-manifest.9be4a3095f0d5ce5385872b675111d03.js",
   "service-worker.js": "/development-website/service-worker.js"
 }
