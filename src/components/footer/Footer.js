@@ -29,7 +29,7 @@ function Footer() {
               <li className="footer-list-item">Forums</li>
             </ul>
             <ul className="footer-list">
-              <a href="#" className="footer-logo">ShokadinuEU</a>
+              <a href="https://shokadinueu.github.io/development-website/" className="footer-logo">ShokadinuEU</a>
               <ul className="footer-list-social">
                 <li className="footer-list-item-social">
                   <a href="https://www.facebook.com/" className="footer-list-link-social">
@@ -57,11 +57,11 @@ function Footer() {
           <hr />
           <div className="footer-second">
             <ul className="footer-second-site-affiliate">
-              <li ><a className="site-affiliate" target="_blank" href="#">Envato Market</a></li>
-              <li ><a className="site-affiliate" target="_blank" href="#">Envato Elements</a></li>
-              <li ><a className="site-affiliate" target="_blank" href="#">Envato Tuts+</a></li>
-              <li ><a className="site-affiliate" target="_blank" href="#">Envato Sites</a></li>
-              <li ><a className="site-affiliate" target="_blank" href="#">Sitemap</a></li>
+              <li ><a className="site-affiliate" rel="noopener noreferrer" target="_blank" href="https://shokadinueu.github.io/development-website/">Envato Market</a></li>
+              <li ><a className="site-affiliate" rel="noopener noreferrer" target="_blank" href="https://shokadinueu.github.io/development-website/">Envato Elements</a></li>
+              <li ><a className="site-affiliate" rel="noopener noreferrer" target="_blank" href="https://shokadinueu.github.io/development-website/">Envato Tuts+</a></li>
+              <li ><a className="site-affiliate" rel="noopener noreferrer" target="_blank" href="https://shokadinueu.github.io/development-website/">Envato Sites</a></li>
+              <li ><a className="site-affiliate" rel="noopener noreferrer" target="_blank" href="https://shokadinueu.github.io/development-website/">Sitemap</a></li>
             </ul>
             <p className="footer-second-copyright">
               Copyright © 2018 Envato Studio. All Rights Reserved

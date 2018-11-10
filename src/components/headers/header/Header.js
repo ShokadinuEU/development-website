@@ -43,13 +43,13 @@ function Header() {
             <div className="header-trending-services-main">
               <div className="trending-services-wrapper">
                 <p className="trending-services-label">Trending Services:</p>
-                <a className="trending-services-link">
+                <a href="https://shokadinueu.github.io/development-website/" className="trending-services-link">
                   App Development
                 </a>
-                <a className="trending-services-link">
+                <a href="https://shokadinueu.github.io/development-website/" className="trending-services-link">
                   Logo Design
                 </a>
-                <a className="trending-services-link">
+                <a href="https://shokadinueu.github.io/development-website/" className="trending-services-link">
                   Landing Page Design
                 </a>
               </div>

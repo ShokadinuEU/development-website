@@ -15,7 +15,7 @@ function Comunity() {
           <section>
             <div className="comunity-first">
               <div className="comunity-first-image">
-                <a href="#" className="comunity-first-image-img">
+                <a href="https://shokadinueu.github.io/development-website/" className="comunity-first-image-img">
                   <h3 className="comunity-first-image-id">User ID</h3>
                   <div className="comunity-first-image-category">Mobile and UI Design</div>
                 </a>
@@ -27,13 +27,13 @@ function Comunity() {
                 <p className="comunity-first-content-text">
                   All designers and developers have been hand-picked. It ensures great results for you, and enables them to earn an income doing what they love.
                 </p>
-                <a href="" className="comunity-first-content-button">
+                <a href="https://shokadinueu.github.io/development-website/" className="comunity-first-content-button">
                   Browse Mobile Development Services
                 </a>
               </div>
             </div>
             <div className="comunity-second">
-              <a href="#" className="comunity-second-item">
+              <a href="https://shokadinueu.github.io/development-website/" className="comunity-second-item">
                 <div className="comunity-image-1">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Mausee Design</h3>
@@ -41,7 +41,7 @@ function Comunity() {
                   </div>
                 </div>
               </a>
-              <a href="#" className="comunity-second-item">
+              <a href="https://shokadinueu.github.io/development-website/" className="comunity-second-item">
                 <div className="comunity-image-2">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Brand Busters</h3>
@@ -49,7 +49,7 @@ function Comunity() {
                   </div>
                 </div>
               </a>
-              <a href="#" className="comunity-second-item">
+              <a href="https://shokadinueu.github.io/development-website/" className="comunity-second-item">
                 <div className="comunity-image-3">
                   <div className="comunity-image-text">
                     <h3 className="comunity-username">Sleepless Artist</h3>
