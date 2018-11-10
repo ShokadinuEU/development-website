@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a433beafa734cbde6d419a3f66a1d309",
-    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
+    "revision": "47dea3ae6303148da982e398e90276cd",
+    "url": "/development-website/static/media/marketing.47dea3ae.jpg"
   },
   {
-    "revision": "ad60ad8106d3045870ba",
+    "revision": "d080cf6ec8a11f339e78",
     "url": "/development-website/static/css/main.1e793e0b.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/development-website/static/js/runtime~main.9b9bbf3f.js"
   },
   {
-    "revision": "e15000fc5e3e035f61611712f4bd83c9",
-    "url": "/development-website/static/media/mobile-apps.e15000fc.jpg"
-  },
-  {
     "revision": "f31c724740eb42848d8edb1ebb1f00ba",
     "url": "/development-website/static/media/animation.f31c7247.jpg"
+  },
+  {
+    "revision": "e15000fc5e3e035f61611712f4bd83c9",
+    "url": "/development-website/static/media/mobile-apps.e15000fc.jpg"
   },
   {
     "revision": "46301efa8f62ae62e0f5dfdb25da2a17",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/audio.372d2ef3.jpg"
   },
   {
-    "revision": "ad60ad8106d3045870ba",
-    "url": "/development-website/static/js/main.ad60ad81.chunk.js"
+    "revision": "d080cf6ec8a11f339e78",
+    "url": "/development-website/static/js/main.d080cf6e.chunk.js"
+  },
+  {
+    "revision": "a433beafa734cbde6d419a3f66a1d309",
+    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
   },
   {
     "revision": "de89b79a66076193fe4a8a3e20d1dacb",
     "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
-  },
-  {
-    "revision": "47dea3ae6303148da982e398e90276cd",
-    "url": "/development-website/static/media/marketing.47dea3ae.jpg"
   },
   {
     "revision": "c048a1b64bdcf8148793fcecbc6b5eb5",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/poster-design.9445e323.jpg"
   },
   {
-    "revision": "0b826d6863a62c0e9429debc43bf1eb9",
+    "revision": "f76f6619a19a077178cdd0ae284272dc",
     "url": "/development-website/index.html"
   }
 ];
