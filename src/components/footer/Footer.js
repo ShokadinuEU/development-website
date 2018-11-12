@@ -33,22 +33,22 @@ function Footer() {
               <ul className="footer-list-social">
                 <li className="footer-list-item-social">
                   <a href="https://www.facebook.com/" className="footer-list-link-social">
-                    <img className="footer-social-img" src="./data/images/logo/footer/facebook.webp" alt="facebook"/>
+                    <img className="footer-social-img" src="./data/images/logo/footer/facebook.jpg" alt="facebook"/>
                   </a>
                 </li>
                 <li className="footer-list-item-social">
                   <a href="https://twitter.com/" className="footer-list-link-social">
-                    <img className="footer-social-img" src="./data/images/logo/footer/twitter.webp" alt="twitter"/>
+                    <img className="footer-social-img" src="./data/images/logo/footer/twitter.jpg" alt="twitter"/>
                   </a>
                 </li>
                 <li className="footer-list-item-social">
                   <a href="https://instagram.com/" className="footer-list-link-social">
-                    <img className="footer-social-img" src="./data/images/logo/footer/instagram.webp" alt="instagram"/>
+                    <img className="footer-social-img" src="./data/images/logo/footer/instagram.jpg" alt="instagram"/>
                   </a>
                 </li>
                 <li className="footer-list-item-social">
                   <a href="https://youtube.com/" className="footer-list-link-social">
-                    <img className="footer-social-img" src="./data/images/logo/footer/youtube.webp" alt="youtube"/>
+                    <img className="footer-social-img" src="./data/images/logo/footer/youtube.jpg" alt="youtube"/>
                   </a>
                 </li>
               </ul>
