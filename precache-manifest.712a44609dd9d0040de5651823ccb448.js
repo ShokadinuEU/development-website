@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/development-website/static/js/runtime~main.9b9bbf3f.js"
   },
   {
-    "revision": "f31c724740eb42848d8edb1ebb1f00ba",
-    "url": "/development-website/static/media/animation.f31c7247.jpg"
-  },
-  {
     "revision": "e15000fc5e3e035f61611712f4bd83c9",
     "url": "/development-website/static/media/mobile-apps.e15000fc.jpg"
+  },
+  {
+    "revision": "f31c724740eb42848d8edb1ebb1f00ba",
+    "url": "/development-website/static/media/animation.f31c7247.jpg"
   },
   {
     "revision": "46301efa8f62ae62e0f5dfdb25da2a17",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/poster-design.9445e323.jpg"
   },
   {
-    "revision": "7c6a75c9c538c56672421f019fe96824",
+    "revision": "f637c5135cfd0db0746b13f35d082f40",
     "url": "/development-website/index.html"
   }
 ];
