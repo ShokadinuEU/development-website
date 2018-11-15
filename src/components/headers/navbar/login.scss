@@ -5,11 +5,12 @@
   color: #333;
   font-weight: 600;
   font-size: 1.28rem;
-  line-height: 1.2;
+  line-height: 1;
   text-align: left;
   background: #e1e1e1;
   border-radius: 10px 10px 0 0;
-  padding: 1.57rem 3.14rem;
+  border-bottom: 0.6px solid rgb(156, 156, 156);
+  padding: 1.5rem 3.14rem;
 }
 
 .login-body {
@@ -24,15 +25,18 @@
   padding: 0.5em 1em;
   margin: 0.7em 0;
   border-radius: 5px;
-  border: 0.4px solid #333;
+  border: 1.4px solid #ccc;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.57em;
+  :focus {
+    border: 2px solid rgba(93, 93, 224, 0.849);
+  }
 }
 
 .login-button {
   background: #82b641;
-  padding: 0.5em 4.2em;
+  padding: 0.5em 4em;
   color: #fff;
   text-decoration: none;
   line-height: 1.5em;
@@ -40,6 +44,7 @@
   border: 0;
   outline: 0;
   margin-top: 0.8em;
+  font-size: 0.9em;
   transition: all .3s ease;
   cursor: pointer;
   &:hover {
@@ -81,7 +86,7 @@
   line-height: 5.7em;
   border-radius: 7px;
   font-size: 0.85em;
-  background-color: rgba(103, 167, 1, 0.11);
+  background-color: rgba(108, 165, 17, 0.075);
   height: 6em;
   font-weight: 600;
 }

@@ -11,6 +11,7 @@ const customStyles = {
     marginRight           : '-50%',
     padding               : "0",
     width                 : "58%",
+    maxWidth              : "550px",
     borderRadius          : "10px",
     transform             : 'translate(-50%, -50%)'
   },
