@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
   },
   {
-    "revision": "d080cf6ec8a11f339e78",
-    "url": "/development-website/static/css/main.1e793e0b.chunk.css"
+    "revision": "a7413551ed9694afa244",
+    "url": "/development-website/static/css/main.be37f3f5.chunk.css"
   },
   {
-    "revision": "3da870a3c1c4b41662f2",
-    "url": "/development-website/static/js/1.3da870a3.chunk.js"
+    "revision": "df3106574cb8feb4099a",
+    "url": "/development-website/static/js/1.df310657.chunk.js"
   },
   {
     "revision": "9b9bbf3fc2f1d2e6f654",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/audio.372d2ef3.jpg"
   },
   {
-    "revision": "d080cf6ec8a11f339e78",
-    "url": "/development-website/static/js/main.d080cf6e.chunk.js"
+    "revision": "a7413551ed9694afa244",
+    "url": "/development-website/static/js/main.a7413551.chunk.js"
   },
   {
     "revision": "a433beafa734cbde6d419a3f66a1d309",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/poster-design.9445e323.jpg"
   },
   {
-    "revision": "f76f6619a19a077178cdd0ae284272dc",
+    "revision": "bcce2c3f97d807e097dfebdd99df78c2",
     "url": "/development-website/index.html"
   }
 ];

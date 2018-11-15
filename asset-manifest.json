@@ -1,15 +1,15 @@
 {
-  "main.css": "/development-website/static/css/main.1e793e0b.chunk.css",
-  "main.js": "/development-website/static/js/main.d080cf6e.chunk.js",
-  "main.js.map": "/development-website/static/js/main.d080cf6e.chunk.js.map",
-  "static/js/1.3da870a3.chunk.js": "/development-website/static/js/1.3da870a3.chunk.js",
-  "static/js/1.3da870a3.chunk.js.map": "/development-website/static/js/1.3da870a3.chunk.js.map",
+  "main.css": "/development-website/static/css/main.be37f3f5.chunk.css",
+  "main.js": "/development-website/static/js/main.a7413551.chunk.js",
+  "main.js.map": "/development-website/static/js/main.a7413551.chunk.js.map",
+  "static/js/1.df310657.chunk.js": "/development-website/static/js/1.df310657.chunk.js",
+  "static/js/1.df310657.chunk.js.map": "/development-website/static/js/1.df310657.chunk.js.map",
   "runtime~main.js": "/development-website/static/js/runtime~main.9b9bbf3f.js",
   "runtime~main.js.map": "/development-website/static/js/runtime~main.9b9bbf3f.js.map",
   "static/media/comunity.scss": "/development-website/static/media/comunity-power.03aa4175.jpg",
   "static/media/categories.scss": "/development-website/static/media/mobile-apps.e15000fc.jpg",
-  "static/css/main.1e793e0b.chunk.css.map": "/development-website/static/css/main.1e793e0b.chunk.css.map",
+  "static/css/main.be37f3f5.chunk.css.map": "/development-website/static/css/main.be37f3f5.chunk.css.map",
   "index.html": "/development-website/index.html",
-  "precache-manifest.cbc0c1da7808e889b1dc62820545c178.js": "/development-website/precache-manifest.cbc0c1da7808e889b1dc62820545c178.js",
+  "precache-manifest.9552aa14eab6d0eb1b2ce529d1949e9e.js": "/development-website/precache-manifest.9552aa14eab6d0eb1b2ce529d1949e9e.js",
   "service-worker.js": "/development-website/service-worker.js"
 }
