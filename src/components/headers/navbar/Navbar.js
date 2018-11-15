@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './navbar.scss'
-import SignIn from './SignIn';
+import Login from './Login';
 
 export default class Navbar extends Component {
   state = { 
@@ -25,9 +25,8 @@ export default class Navbar extends Component {
             <span><img src="./data/images/logo/header/right-arrow.png" alt="" className="down-arrow-navbar"/></span>
             </div>
             <div className="nav-info">How it Work</div>
-            <div id="modal-signIn" className="navbar-button-main">
-              <SignIn />
-              {/* <a href="https://shokadinueu.github.io/development-website" className="navbar-button-link">Sign In</a> */}
+            <div className="navbar-button-main">
+              <Login />
             </div>
           </div>
         </div>
