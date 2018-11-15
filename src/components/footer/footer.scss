@@ -143,7 +143,20 @@ hr {
   }
 }
 
-
+@media only screen and (max-width: 480px) {
+  .footer-first {
+    display: block;
+  }
+  .footer-list {
+    width: 100%;
+  }
+  .footer-second-site-affiliate {
+    display: block;
+  }
+  .footer-second-copyright {
+    width: 100%;
+  }
+}
 
 
 

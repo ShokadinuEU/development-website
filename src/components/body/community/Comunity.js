@@ -12,7 +12,7 @@ function Comunity() {
           <p className="comunity-subheading">
             Our world-class freelancers offer over 3,000 unique services for you to choose from
           </p>
-          <section>
+          <section className="comunity-body-wrapper">
             <div className="comunity-first">
               <div className="comunity-first-image">
                 <a href="https://shokadinueu.github.io/development-website/" className="comunity-first-image-img">

@@ -175,6 +175,46 @@
 
 }
 
+@media only screen and (max-width: 480px) {
+  .categories-card-wrapper {
+    width: 100%
+  }
+  .comunity-heading {
+    font-size: 1.5em;
+  }
+  .comunity-subheading {
+    font-size: 1em;
+  }
+  .comunity-first {
+    display: grid;
+    margin: 0;
+  }
+  .comunity-body-wrapper {
+    display: block
+  }
+  .comunity-first-image {
+    width: 100%;
+    order: 3;
+    margin-top: 1em;
+  }
+  .comunity-first-content {
+    width: 100%;
+    padding: 1em 0.3em;
+    border-radius: 5px;
+    background-color: rgba(204, 204, 204, 0.308);
+  }
+  .comunity-second {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+  .comunity-image-1,
+  .comunity-image-2,
+  .comunity-image-3 {
+    height: 280px;
+  }
+}
+
 
 
 

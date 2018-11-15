@@ -58,3 +58,19 @@
     transition: all .3s ease;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  .search-heading {
+    font-size: 1.7em;
+  }
+  .search-form-wrapper {
+    width: 100%;
+  }
+  .search-form-input{
+    font-size: 0.75em;
+  }
+  .search-form-button {
+    font-size: .85em;
+    font-weight: 400;
+  }
+}

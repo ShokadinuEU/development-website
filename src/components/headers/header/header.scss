@@ -141,3 +141,25 @@
   color: #fff;
   cursor: pointer;
 }
+
+@media only screen and (max-width: 480px)  {
+  .header-info {
+    display: block;
+  }
+  .header-step {
+    width: 100%;
+  }
+  .right-arrow-header {
+    margin: 1em auto;
+    transform: rotate(90deg)
+  }
+  .header-trending-services-main {
+    display: none;
+  }
+  .header-form-input {
+    font-size: 1em;
+  }
+  .header-form-button{
+    font-weight: 200;
+  }
+}

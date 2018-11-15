@@ -93,3 +93,15 @@ a {
     background: rgba(0,0,0,.2);
   }
 }
+
+@media only screen and (max-width: 480px) {
+  .categories-card-wrapper {
+    width: 100%
+  }
+  .categories-heading {
+    font-size: 1.5em;
+  }
+  .categories-subheading {
+    font-size: 1em;
+  }
+}
