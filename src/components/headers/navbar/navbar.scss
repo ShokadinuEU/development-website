@@ -134,30 +134,16 @@
 }
 
 @media only screen and (max-width: 480px)  {
-  .navbar-main {
-    overflow: hidden;
-  }
-
-  .navbar-links {
+  .drop-down {
     display: none;
   }
-
+  .nav-info {
+    display: none;
+  }
   .header-info {
     display: block;
   }
   .header-step {
     width: 100%;
-  }
-
-
-
-
-
-
-
-
-
-  .footer-second-site-affiliate {
-    display: block;
   }
 }

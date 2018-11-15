@@ -116,3 +116,37 @@
   color: rgb(145, 145, 145);
   text-decoration: underline;
 }
+
+@media only screen and (max-width: 480px)  {
+  .new-user {
+    display: none;
+  }
+  .new-user button {
+    display: none;
+  }
+  .other-login-method{
+    display: none;
+  }
+  .website-brand {
+    display: none;
+  }
+  .login-header {
+    padding: 0.4em 0.8em;
+  }
+  .login-body {
+    width: 100%;
+    padding: 0.2em;
+    margin: 0;
+  }
+  .login-button {
+    display: block;
+    margin: auto;
+  }
+  .login-forgot {
+    font-size: 0.8em;
+  }
+  .facebook-login {
+    display: block;
+    text-align: center;
+  }
+}
