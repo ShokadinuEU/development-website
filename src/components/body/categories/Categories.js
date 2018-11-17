@@ -1,7 +1,7 @@
 import React from 'react'
 import './categories.scss'
 
-function Categories() {
+const Categories = () => {
   return (
     <div>
       <div className="categories-main">

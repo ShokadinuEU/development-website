@@ -1,7 +1,7 @@
 import React from 'react'
 import './comunity.scss'
 
-function Comunity() {
+const Comunity = () => {
   return (
     <div>
       <div className="comunity-main">
