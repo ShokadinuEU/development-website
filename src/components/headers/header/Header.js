@@ -1,17 +1,16 @@
 import React from 'react'
 import './header.scss'
 
- Header = () => {
-
-
-  return (
+class Header extends React.Component {
+  render() {
+    return (
     <div>
       <div className="header-main">
         <div className="header-wrapper">
           <div className="header-content">
             <h1>A community of designers, developers and creatives ready for your project</h1>
             <div className="header-info">
-              <div className="header-step">
+              <div className="header-step-one">
                 <div className="header-step-icon">
                   <img src="./data/images/logo/header/green-check.png" alt="search" className="header-step_icon-one"/>
                 </div>
@@ -20,7 +19,7 @@ import './header.scss'
                 </p>
               </div>
               <img src="./data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
-              <div className="header-step">
+              <div className="header-step-two">
                 <div className="header-step-icon">
                 <img src="./data/images/logo/header/green-dialog.png" alt="dialog" className="header-step_icon-two"/>
                 </div>
@@ -29,7 +28,7 @@ import './header.scss'
                 </p>
               </div>
               <img src="./data/images/logo/header/right-arrow.png" alt="" className="right-arrow-header"/>
-              <div className="header-step">
+              <div className="header-step-three">
                 <div className="header-step-icon">
                 <img src="./data/images/logo/header/green-heart.png" alt="heart" className="header-step_icon-three"/>
                 </div>
@@ -60,7 +59,7 @@ import './header.scss'
         </div>
       </div>
     </div>
-  )
+  )}
 }
 
 export default Header

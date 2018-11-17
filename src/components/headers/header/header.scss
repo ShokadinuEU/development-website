@@ -25,12 +25,44 @@
   text-align: center;
   align-items: center;
   padding-top: 22px;
-  padding-top: 1.5714286rem;
+  padding-top: 1.57rem;
   padding-bottom: 22px;
   padding-bottom: 2.5rem;
   width: 90%;
   margin: 0 auto;
   color: #ccc;
+}
+
+.header-step-one {
+  position: relative;
+  animation: slide .4s;
+  animation-fill-mode: both;
+}
+.header-step-two {
+  position: relative;
+  animation: slide .4s;
+  animation-fill-mode: both;
+  animation-delay: 0.4s;
+}
+.header-step-three {
+  position: relative;
+  animation: slide .4s;
+  animation-fill-mode: both;
+  animation-delay: 0.8s;
+}
+
+@keyframes slide {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -28%, 0);
+    transform: translate3d(0, -28%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 .header-step_icon-one {
@@ -39,6 +71,7 @@
   width: 50px;
   margin: 0 auto;
 }
+
 
 .header-step_icon-two {
   display: block;
