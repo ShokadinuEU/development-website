@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a433beafa734cbde6d419a3f66a1d309",
-    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
+    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
+    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
   },
   {
-    "revision": "d85b03470564a04fdedb",
-    "url": "/development-website/static/css/main.ba0deffa.chunk.css"
+    "revision": "b950aaa145261da3168e",
+    "url": "/development-website/static/css/main.7ad698b2.chunk.css"
   },
   {
     "revision": "df3106574cb8feb4099a",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/audio.372d2ef3.jpg"
   },
   {
-    "revision": "d85b03470564a04fdedb",
-    "url": "/development-website/static/js/main.d85b0347.chunk.js"
+    "revision": "b950aaa145261da3168e",
+    "url": "/development-website/static/js/main.b950aaa1.chunk.js"
   },
   {
-    "revision": "de89b79a66076193fe4a8a3e20d1dacb",
-    "url": "/development-website/static/media/graphics-design.de89b79a.jpg"
+    "revision": "a433beafa734cbde6d419a3f66a1d309",
+    "url": "/development-website/static/media/wordpress.a433beaf.jpg"
   },
   {
     "revision": "47dea3ae6303148da982e398e90276cd",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/development-website/static/media/poster-design.9445e323.jpg"
   },
   {
-    "revision": "12a81434fa5009d4048628142a587c21",
+    "revision": "f675173941f2635372840bbe6ee05862",
     "url": "/development-website/index.html"
   }
 ];
