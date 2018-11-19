@@ -67,6 +67,11 @@
   text-decoration: none;
   &:hover {
     color: #fff;
+    .down-arrow-navbar {
+        margin-top: 1em;
+        transform: rotate(270deg);
+        transition: all .6s;
+    }
   }
 }
 
@@ -78,7 +83,9 @@
   height: 0.8em;
   width: 0.8em;
   transform: rotate(90deg);
+  transition: all .6s;
 }
+
 
 .drop-down:before {
   content: "";
