@@ -1,8 +1,7 @@
 import React from 'react'
 import './header.scss'
 
-class Header extends React.Component {
-  render() {
+const Header = () => {
     return (
     <div>
       <div className="header-main">
@@ -60,6 +59,5 @@ class Header extends React.Component {
       </div>
     </div>
   )}
-}
 
 export default Header

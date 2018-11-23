@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Modal from 'react-modal';
 import './login.scss'
 
@@ -22,7 +22,7 @@ const customStyles = {
 
 Modal.setAppElement('#root')
 
-class Login extends React.Component {
+class Login extends Component {
   constructor() {
     super()
     this.state = {
@@ -80,7 +80,7 @@ class Login extends React.Component {
           </div>
         </Modal>
       </div>
-    );
+    )
   }
 }
 
